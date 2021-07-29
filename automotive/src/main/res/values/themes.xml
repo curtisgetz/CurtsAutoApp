@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="Theme.CurtsAutoApp" parent="android:Theme.Material.Light.DarkActionBar" />
+
+    <style name="Theme.CurtsAutoApp.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.CurtsAutoApp.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.CurtsAutoApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

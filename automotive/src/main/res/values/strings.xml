@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CurtsAutoApp</string>
+    <string name="title_activity_main">Curt\'s Auto App</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="powered_by_listen_notes">Powered by Listen Notes</string>
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+    <string name="title" formatted="true" >Podcast: %1$s \nEpisode: %2$s</string>
+    <string name="loading">Loading…</string>
+
+    <string name="label_stop">Stop</string>
+    <string name="label_pause">Pause</string>
+    <string name="label_play">Play</string>
+    <string name="label_play_pause">Play and pause toggle</string>
+    <string name="label_previous">Previous track</string>
+    <string name="label_next">Next track</string>
+</resources>
